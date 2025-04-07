@@ -1,0 +1,22 @@
+Project Overview
+This AWS Lambda function returns a JSON response when triggered via an HTTP request. It's connected to an API Gateway endpoint and can be tested publicly.
+
+Features
+-AWS Lambda function using Python
+-Triggered by API Gateway
+-Deployed using AWS Console and GitHub
+-CI/CD pipeline setup for future automation
+-Clean and minimal response structure
+
+Screenshots of success added
+
+Link:
+
+https://mmgc4r66g8.execute-api.eu-west-2.amazonaws.com/domsLambdaProject
+
+Technologies Used
+-AWS Lambda
+-API Gateway
+-Python 3.x
+-Git & GitHub
+-PowerShell (for local testing)
