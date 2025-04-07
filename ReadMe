@@ -20,3 +20,15 @@ Technologies Used
 -Python 3.x
 -Git & GitHub
 -PowerShell (for local testing)
+
+This Lambda project uses CI/CD because:
+
+-Changes are automatically tested and deployed when pushed to the GitHub repository after being tested locally in Powershell & VScode.
+
+-No manual deployment is required, GitHub Actions handles the full automation.
+
+-The function is always up-to-date in AWS with the latest code from the main or master branch.
+
+-Version-controlled infrastructure ensures consistent and reliable deployments.
+
+-By automating the workflow using GitHub Actions and deploying straight to AWS Lambda, this project follows core DevOps practices for CI/CD.
