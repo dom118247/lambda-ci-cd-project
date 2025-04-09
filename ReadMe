@@ -17,7 +17,7 @@ https://mmgc4r66g8.execute-api.eu-west-2.amazonaws.com/domsLambdaProject
 Technologies Used
 -AWS Lambda
 -API Gateway
--Python 3.x
+-Python
 -Git & GitHub
 -PowerShell (for local testing)
 
